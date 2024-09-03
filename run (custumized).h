@@ -131,9 +131,9 @@ static char *descriptor_strings[] = {
 
 // PCM3060 pin definitions
 #define PCM3060_SCKI2_PIN 19    // a.k.a. DAC SCKI
-#define PCM3060_DAC_SCK_PIN 26  // a.k.a. DAC BCK
-#define PCM3060_DAC_WS_PIN 27   // a.k.a. DAC LRCK
-#define PCM3060_DAC_SD_PIN 28   // a.k.a. DAC DIN
+#define PCM3060_DAC_SCK_PIN 27  // a.k.a. DAC BCK
+#define PCM3060_DAC_WS_PIN 28   // a.k.a. DAC LRCK
+#define PCM3060_DAC_SD_PIN 26   // a.k.a. DAC DIN
 #define PCM3060_RST_PIN 14      // a.k.a. PCM RESET
 
 #define NEG_SWITCH_PWM_PIN 17
